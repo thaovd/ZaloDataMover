@@ -5,9 +5,8 @@
 ## Chức năng
 
 1. Cho phép người dùng chọn vị trí lưu trữ dữ liệu mới
-2. Tự động đóng ứng dụng Zalo nếu đang chạy
-3. Di chuyển thư mục dữ liệu Zalo từ `C:\Users\{user}\AppData\Local\ZaloPC` sang vị trí mới
-4. Tạo symbolic link (junction) từ vị trí cũ tới vị trí mới
+2. Di chuyển thư mục dữ liệu Zalo từ `C:\Users\{user}\AppData\Local\ZaloPC` sang vị trí mới
+3. Tạo symbolic link (junction) từ vị trí cũ tới vị trí mới
 
 
 ## Cách build
